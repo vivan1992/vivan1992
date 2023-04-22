@@ -27,6 +27,9 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="gulp" width="40" height="40"/> </a>
     </p>
     
+ <h2 align="left">:Моя статистика:</h2>
+ | <a href="https://github.com/vivan1992/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vivan1992&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vivan github stats" /></a> | <a href="https://github.com/vivan1992/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivan1992&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
     
 <!--
 **vivan1992/vivan1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
